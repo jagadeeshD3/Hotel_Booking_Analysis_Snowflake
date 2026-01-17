@@ -118,7 +118,7 @@ The Snowflake SQL Dashboard provides:
 
 The dashboard updates dynamically based on the underlying Gold tables, enabling **near real-time business insights**.
 
-![final ](final dashboard.png)
+![dashboard](final_dashboard.png)
 
 
 ---
