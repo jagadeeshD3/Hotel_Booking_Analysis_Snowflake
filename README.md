@@ -10,7 +10,7 @@ The project follows the **Medallion Architecture (Bronze → Silver → Gold)** 
 
 ### 🏗️ Architecture Overview
 
-*(Refer to the attached architecture diagram)*
+![Architecture](architecture_snowflake.png)
 
 The solution is designed using a modern cloud analytics pattern:
 
